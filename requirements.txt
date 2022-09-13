@@ -33,7 +33,7 @@ et-xmlfile==1.0.1
 fab==1.4.2
 Fabric3==1.12.post1
 flake8==3.3.0
-flower==0.8.4
+flower==1.2.0
 futures==3.0.5
 gunicorn==19.4.5
 httpie==0.9.6
