@@ -6,7 +6,7 @@ backports.ssl-match-hostname==3.5.0.1
 beautifulsoup4==4.6.0
 billiard==3.5.0.3
 celery==4.0.2
-certifi==2015.11.20.1
+certifi==2022.12.7
 coverage==4.4
 crcmod==1.7
 Django==1.9.6
